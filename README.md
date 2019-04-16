@@ -8,4 +8,7 @@ and see the data in kml file.
 
 working envirment : java.
 
+the code also have junit class with a lot of checkes to all the functions.
+
+
 
