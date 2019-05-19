@@ -6,7 +6,7 @@ Generate an kml file from the data that used to the user.
 this operatins can be base for games that need to calculate distance between point
 and see the data in kml file.
 
-working envirment : java.
+working envirment : java,eclipse.
 
 the code also have junit class with a lot of checkes to all the functions.
 
